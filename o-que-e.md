@@ -15,7 +15,7 @@
   <p>A doença não tem cura, porém com o remédio próprio, chamado <i>Riluzol</i> e acompanhamento de profissionais, como médico, fonoaudiólogo, fisioterapia e nutrição ajudam a retardar o avanço da ELA</p>
 
 <h2>➡️ Quais são as causas ? </h2>
-  <p>As causas da ELA ainda não são conhecidas, no entando, sabe-se que em cerca de 10% dis casis eka é causada por um defeito genético</p>
+  <p>As causas da ELA ainda não são conhecidas, no entando, sabe-se que em cerca de 10% dos casos ela é causada por um defeito genético</p>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5986AD&height=120&section=footer"/>
